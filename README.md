@@ -1,4 +1,5 @@
 🛡️ Watermark Adder
+
 Ajoutez des filigranes à vos PDF de manière sécurisée et entièrement locale grâce à une application Python moderne et conviviale !
 J'ai réalisé ce programme afin de garantir à des comptables un ajout de filigrane sans risque de divulgation de données, comme les ajouteurs en ligne. Ainsi, je le repartage pour ceux qui pourraient avoir ce besoin !
 
