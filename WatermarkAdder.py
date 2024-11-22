@@ -79,14 +79,14 @@ def process_pdf():
         messagebox.showerror("Erreur", "Échec de l'ajout de la watermark.")
 
 
-# Interface graphique avec customtkinter
+# Interface graphique avec customtkinter !
 root = CTk()
-root.title("Filigrane Accor")
+root.title("Watermark Adder")
 root.geometry("450x300")
 root.resizable(False, False)
 
 # Titre
-title_label = CTkLabel(root, text="ACCOR Filigrane par Antoine", font=("Helvetica", 16))
+title_label = CTkLabel(root, text="Filigrane par Anto.sys", font=("Helvetica", 16))
 title_label.pack(pady=10)
 
 # Zone de texte pour entrer la watermark
